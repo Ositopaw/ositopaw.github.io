@@ -15,7 +15,7 @@ body {
 }
 
 a{
-  color: #3633ff;
+  color: #fff;
 }
 body{
 	background: url('img/alhambra1.jpg') center center;
@@ -26,8 +26,8 @@ body{
 	position:absolute;
 	width:90%;
 	max-width: 600px;
-	color: #3633ff;
-	top: 50%;
+	color: #fff;
+	top: 20%;
 	left: 50%;
 	transform: translate(-50%, -50%);
 }
